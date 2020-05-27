@@ -9,3 +9,5 @@
 ## Project 4.1: [Bubble Sort](https://github.com/GuillaumeOcculy/TheOdinProject/blob/master/bubble_sort/bubble_sort.rb)
 
 ## Project 4.2: [Enumerable Methods](https://github.com/GuillaumeOcculy/TheOdinProject/blob/master/enumerable_methods/enumerable_methods.rb)
+
+## Project 5.1: [Tic Tac Toe](https://github.com/GuillaumeOcculy/TheOdinProject/blob/master/tic_tac_toe/tic_tac_toe.rb)
